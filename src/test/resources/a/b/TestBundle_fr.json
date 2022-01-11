@@ -1,0 +1,6 @@
+{
+  "key1": "La valeur de la clé 1 lue du classpath",
+  "object": {
+    "key1": "La valeur de la clé 1 de l'object"
+  }
+}

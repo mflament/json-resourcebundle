@@ -1,0 +1,15 @@
+{
+  "key1": "The value of key 1 from classpath",
+  "key2": "The value of key 2 from classpath",
+  "object": {
+    "key1": "The value of key 1 from object",
+    "key2": "The value of key 2 from object"
+  },
+  "array": [
+    "The first value of array",
+    "The second value of array"
+  ],
+  "bool": true,
+  "decimal": 3.14,
+  "int": 42
+}
